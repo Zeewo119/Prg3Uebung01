@@ -1,0 +1,11 @@
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\obj\Debug\netcoreapp3.0\Prg3Uebung01.csprojAssemblyReference.cache
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\obj\Debug\netcoreapp3.0\Prg3Uebung01.AssemblyInfoInputs.cache
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\obj\Debug\netcoreapp3.0\Prg3Uebung01.AssemblyInfo.cs
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.exe
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.deps.json
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.runtimeconfig.json
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.runtimeconfig.dev.json
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.dll
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\bin\Debug\netcoreapp3.0\Prg3Uebung01.pdb
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\obj\Debug\netcoreapp3.0\Prg3Uebung01.dll
+C:\Users\sBWeuzeeb\source\repos\Prg3Uebung01\obj\Debug\netcoreapp3.0\Prg3Uebung01.pdb
